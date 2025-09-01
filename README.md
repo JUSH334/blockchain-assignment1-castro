@@ -54,11 +54,11 @@ EXPECTED OUTPUT
 REFLECTION
 -------------------------------------------------------------------------------------
 
-	This blockchain implementation provided valuable insights into the fundamental mechanics of cryptocurrency and distributed ledger technology. Working with cryptographic hashing demonstrated how SHA-256 creates a unique digital fingerprint for each block, where any modification to the data results in a completely different hash value. 
+This blockchain implementation provided valuable insights into the fundamental mechanics of cryptocurrency and distributed ledger technology. Working with cryptographic hashing demonstrated how SHA-256 creates a unique digital fingerprint for each block, where any modification to the data results in a completely different hash value. 
 	
-	The Proof-of-Work mining process illustrated why blockchain networks require significant computational resources. The system must iterate through countless nonce values until it discovers a hash meeting the difficulty requirements. The chain validation mechanism was interesting when we tested tampering with transaction data. The blockchain detected the inconsistency because the recalculated hash no longer matched the stored value, effectively breaking the cryptographic chain. 
+The Proof-of-Work mining process illustrated why blockchain networks require significant computational resources. The system must iterate through countless nonce values until it discovers a hash meeting the difficulty requirements. The chain validation mechanism was interesting when we tested tampering with transaction data. The blockchain detected the inconsistency because the recalculated hash no longer matched the stored value, effectively breaking the cryptographic chain. 
 	
-	This assignment helped clarify why blockchain technology is considered tamper-resistant and how it enables trustless transactions between parties without requiring a centralized authority or a "third-party". Overall, building this blockchain from scratch helped me understand how these interconnected components work together to maintain data integrity and security in decentralized systems.
+This assignment helped clarify why blockchain technology is considered tamper-resistant and how it enables trustless transactions between parties without requiring a centralized authority or a "third-party". Overall, building this blockchain from scratch helped me understand how these interconnected components work together to maintain data integrity and security in decentralized systems.
 
 -------------------------------------------------------------------------------------
 
